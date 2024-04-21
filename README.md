@@ -9,5 +9,7 @@
 npm run `android` or `ios`  
 _for the web_
 >Install `react-native-web` so that use can use it on the web and `metro-runtime`
+
 ```npx expo install react-native-web react-dom```
+
 ```npx expo install @expo/metro-runtime```
